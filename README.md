@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Jan 👋
 
-<!--
-**latemiq/latemiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Full-Stack Developer from Kraków, Poland · Applied Computer Science student at UKEN.
+I build web and mobile apps with **TypeScript, React / Next.js, Node.js and React Native**, with PostgreSQL (Supabase) on the backend.
 
-Here are some ideas to get you started:
+## 🏋️ Featured project: [RepTrack](https://github.com/latemiq/reptrack)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A workout tracker with a personal-trainer panel – web app (PWA) and native Android app, built end to end on my own.
+
+- Node.js REST API (~40 endpoints) and a PostgreSQL schema with Row Level Security
+- Trainer panel: client invites via QR, workout reviews, periodized training plans
+- Two-factor authentication built from scratch: passkeys (WebAuthn), TOTP, e-mail codes
+- AI coach chat and importing runs from screenshots (Claude API)
+
+**Live demo:** https://reptrack-five-tau.vercel.app
+
+## 🛠️ Tech stack
+
+**Frontend:** TypeScript · JavaScript · React · Next.js · Tailwind CSS · Zustand
+**Backend:** Node.js · REST APIs · PostgreSQL · Supabase · SQL
+**Mobile:** React Native · Expo
+**Tools:** Git · GitHub · Vercel
+
+## 📫 Contact
+
+dzierzkowskijan@gmail.com
