@@ -17,7 +17,7 @@ A workout tracker with a personal-trainer panel – web app (PWA) and native And
 ## 🛠️ Tech stack
 
 **Frontend:** TypeScript · JavaScript · React · Next.js · Tailwind CSS · Zustand
-**Backend:** Node.js · REST APIs · PostgreSQL · Supabase · SQL
+**Backend:** Java 21 · Spring Boot · JUnit 5 · Maven · Node.js · REST APIs · PostgreSQL · Supabase · SQL
 **Mobile:** React Native · Expo
 **Tools:** Git · GitHub · Vercel
 
